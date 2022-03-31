@@ -3,7 +3,7 @@
 The **Apache HOP** (Orchestration Plataform) is a tool for creating workflow and pipelines.
 
 Structure:
-Java (VM) >> Apache Hop >> Workflow of Pipeline
+Java (VM) >> Apache Hop >> Workflow or Pipeline
 
 The Apache Hop is a open platform for creating data ingestion structures, data processing and data flow on various platforms.
 
