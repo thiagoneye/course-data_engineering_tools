@@ -1,0 +1,4 @@
+cep;logradouro;complemento;bairro;localidade;uf;ibge;gia;ddd;siafi
+40020-025;Avenida Sá Ferreira;;Centro;Salvador;BA;2927408;;71;3849
+40020-010;Praça Thomé de Souza;;Centro;Salvador;BA;2927408;;71;3849
+40020-900;Praça Thomé de Souza;s/n;Centro;Salvador;BA;2927408;;71;3849
